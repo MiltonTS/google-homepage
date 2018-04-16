@@ -1,0 +1,47 @@
+div img {
+  display: block;
+  margin: 0 auto;
+}
+.search {
+  position: absolute;
+  left: 50%;
+  right: 50%;
+  width: 300px;
+  height: 20px;
+  margin-top: -130px;
+  margin-left: -150px;
+}
+ul {
+
+  list-style-type: none;
+  padding: 0;
+  margin-left: 1050px;
+}
+ul li {
+  display: inline;
+  padding: 4px;
+}
+#buscars {
+position: fixed;
+  left: 40%;
+  right: 60%;
+  margin-top: -100px;
+}
+#buscarm {
+  position:fixed;
+  left:50%;
+  right:50%;
+  margin-top: -100px;
+}
+#bottoml {
+    padding: 10px;
+    margin: 0;
+    float:left;
+    bottom: 0;
+}
+#bottomr {
+  padding: 10px;
+  float:right;
+  margin:0;
+  bottom: 0;
+}
